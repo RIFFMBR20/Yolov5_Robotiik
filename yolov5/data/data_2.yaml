@@ -1,0 +1,6 @@
+path: /home/riyandi/workspace/robotiik/yolov5/data/dataset
+train: /home/riyandi/workspace/robotiik/yolov5/data/dataset/train/images
+val: /home/riyandi/workspace/robotiik/yolov5/data/dataset/valid/images
+
+nc: 3
+names: ['ball', 'gawang', 'pjb']

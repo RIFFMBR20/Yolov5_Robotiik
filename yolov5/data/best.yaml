@@ -1,0 +1,6 @@
+names:
+- ball
+- gawang
+nc: 2
+train: /content/datasets/datasetmerge-v1-2/train/images
+val: /content/datasets/datasetmerge-v1-2/valid/images
